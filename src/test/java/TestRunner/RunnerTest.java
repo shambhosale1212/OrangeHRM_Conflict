@@ -8,9 +8,9 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		
-		features="C:\\Users\\Sham\\Desktop\\Conflictissue\\OrangeHRMConflict\\src\\test\\java\\Feature\\TC_001_OrangeConflict.feature",
+		features="C:\\Users\\user\\git\\OrangeHRM_Conflict\\src\\test\\java\\Feature",
 		glue = "Steps",
-		dryRun= true,
+		dryRun= false,
 		monochrome= true
 		
 		
